@@ -1,5 +1,6 @@
 import * as cheerio from 'cheerio';
-import { parseSVG } from 'svg-parser';
+import pkg from 'svg-parser';
+const { parseSVG } = pkg;
 
 export interface SvgNode {
   type: 'VECTOR' | 'GROUP';
