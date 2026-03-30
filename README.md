@@ -128,7 +128,7 @@ npm run build
   "mcpServers": {
     "html-to-design": {
       "command": "node",
-      "args": ["C:... .../figmaToDesign/dist/index.js"]
+      "args": ["C:/Users/dell/Desktop/酞青蓝/figmaToDesign/dist/index.js"]
     }
   }
 }
